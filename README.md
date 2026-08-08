@@ -36,4 +36,4 @@ Complete **Dolphin Emulator Vault** emulation environment offering ROM managemen
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
